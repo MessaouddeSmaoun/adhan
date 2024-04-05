@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">adhan</string>
+    <string name="setting_page">Setting Page</string>
+    <string name="athan">الأذان</string>
+    <string name="zaqt_salate">حان وقت صلاة</string>
+    <string name="jama3">مسجد زاوية سيدي سعيد سمعون مركز</string>
+    <string name="affichage_page">Affichage</string>
+    <string name="box_color_default">Color Boite</string>
+    <string name="box_color_next">Color Selectionner</string>
+    <string name="ecran_athan">Ecran pendant Salate</string>
+    <string name="color_text">Color Texte</string>
+    <string name="save">Enregistrer</string>
+
+</resources>

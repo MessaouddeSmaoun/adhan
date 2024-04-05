@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Adhan" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
